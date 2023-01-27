@@ -5,7 +5,6 @@
 	
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Blockchain+Developer;I+like+coding,+anime,+travel,;math,+shoes,+and+party.dance)]
 ![](https://komarev.com/ghpvc/?username=aakash4dev)
-<br>
 
 #### **Programming Languages:**
 
