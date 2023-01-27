@@ -1,16 +1,14 @@
 <div style="text-align:center">
-	<img src="img/me.jpg" style="border-radius:50%;height:100px">
 	<h3>
 	Hi there 👋
 	</h3>
-	<h2>I am Aakash Singh Rajput</h2>
-
 <div class="typewriter">
-  <h3><b>Blockchain Devloper</b><br/>
-  I like Coding</h3>
-</div>
+  <h3><b>I am a Blockchain & dApp Devloper</b><br/>
+  I like coding, anime, travel, math, shoes, and party.dance </h3>
 
-![](https://komarev.com/ghpvc/?username=aakash4dev)
+  ![](https://komarev.com/ghpvc/?username=aakash4dev)
+</div>
+<br>
 
 #### **Languages:**
 
@@ -32,4 +30,10 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+<!-- #### **Social Media** -->
+<!-- ![](https://www.linkedin.com/sharing/share-offsite/?url={https://www.linkedin.com/aakash4dev/}
+) -->
+
+
 </div>
+
