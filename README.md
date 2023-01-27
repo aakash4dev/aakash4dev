@@ -34,6 +34,6 @@
 <!-- ![](https://www.linkedin.com/sharing/share-offsite/?url={https://www.linkedin.com/aakash4dev/}
 ) -->
 
-
+linkedin, twitter: aakash4dev
 </div>
 
