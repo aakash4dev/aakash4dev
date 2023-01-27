@@ -1,6 +1,6 @@
 
 <div style="text-align:center">
-	<!-- <img src="img/me.jpg" style="border-radius:50%;height:100px"> -->
+	<img src="img/me.jpg" style="border-radius:50%;height:100px">
 	<h3>
 	Hi there 👋
 	</h3>
