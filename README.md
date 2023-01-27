@@ -1,11 +1,6 @@
-<div style="text-align:center">
-	<h3>
-	Hi there 👋
-	</h3>
-	
+### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Blockchain+Developer;I+like+coding,+anime,+travel,;math,+shoes,+and+party.dance)]
 ![](https://komarev.com/ghpvc/?username=aakash4dev)
-
 #### **Programming Languages:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
