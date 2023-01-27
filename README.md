@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <button onclick="typeWriter()">Click me</button>
 
 <p id="demo"></p>
-
-<script>
+<script type="text/javascript">
 var i = 0;
 var txt = 'Lorem ipsum dummy text blabla.';
 var speed = 50;
