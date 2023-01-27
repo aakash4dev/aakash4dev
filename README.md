@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=aakash4dev)
 
-<h1>Typewriter</h1>
 
-<button onclick="typeWriter()">Click me</button>
-
-<iframe src="js/textanimation.js"></iframe>
+<iframe src="typingeffect.html"></iframe>
 
