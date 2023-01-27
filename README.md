@@ -19,17 +19,5 @@ Here are some ideas to get you started:
 
 <button onclick="typeWriter()">Click me</button>
 
-<p id="demo"></p>
-<script type="text/javascript">
-var i = 0;
-var txt = 'Lorem ipsum dummy text blabla.';
-var speed = 50;
+<iframe src="js/textanimation.js"></iframe>
 
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
-  }
-}
-</script>
