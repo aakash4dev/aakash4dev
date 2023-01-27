@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=aakash4dev)
 
-
-<iframe src="typingeffect.html"></iframe>
-
+<object width="625" height="800">
+  <embed src="typingeffect.html"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="625" height="800" />
+</object>
