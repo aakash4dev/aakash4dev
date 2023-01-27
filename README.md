@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://komarev.com/ghpvc/?username=aakash4dev)
-
-<object width="625" height="800">
-  <embed src="typingeffect.html"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="625" height="800" />
-</object>
+![](typingeffect.html)
