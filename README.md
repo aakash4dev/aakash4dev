@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Blockchain+Developer;I+like+coding,+anime,+travel,;math,+shoes,+and+party.dance)]
-![](https://komarev.com/ghpvc/?username=aakash4dev)
+
 #### **Programming Languages:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,3 +26,7 @@ Linkedin: https://www.linkedin.com/aakash4dev/
 Twitter: https://www.twitter.com/aakash4dev
 
 Instagram: https://instagram.com/aakash4dev
+
+
+
+![](https://komarev.com/ghpvc/?username=aakash4dev)
