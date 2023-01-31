@@ -1,6 +1,15 @@
 ### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Blockchain+Developer;I+like+coding,+anime,+travel,;math,+shoes,+and+party.dance)]
 
+![](https://komarev.com/ghpvc/?username=aakash4dev)
+<!-- <div align="center" > -->
+ <img 
+    src="https://github-readme-stats.vercel.app/api?username=aakash4dev&show_icons=true&hide=issues,prs&theme=algolia&border_radius=20"
+    alt="Shubham Sharma profile status"
+  />
+
+
+
 #### **Programming Languages:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,7 +28,9 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-</div>
+<!-- </div> -->
+<!-- </div> -->
+
 
 Linkedin: https://www.linkedin.com/aakash4dev/
 
@@ -27,6 +38,3 @@ Twitter: https://www.twitter.com/aakash4dev
 
 Instagram: https://instagram.com/aakash4dev
 
-
-
-![](https://komarev.com/ghpvc/?username=aakash4dev)
