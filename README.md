@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Blockchain+Developer;I+like+coding,+anime,+travel,;math,+shoes,+and+party.dance)]
-
+<img alt="snake ka photu hain" src="https://github.com/aakash4dev/aakash4dev/blob/output/github-contribution-grid-snake.svg"/>
 ![](https://komarev.com/ghpvc/?username=aakash4dev)
 <!-- <div align="center" > -->
  <div w-100>
