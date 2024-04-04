@@ -39,7 +39,7 @@
 <!-- </div> -->
 
 
-Linkedin: https://www.linkedin.com/aakash4dev/
+Linkedin: https://www.linkedin.com/in/aakash4dev/
 
 Twitter: https://www.twitter.com/aakash4dev
 
