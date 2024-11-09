@@ -1,7 +1,7 @@
 # 🐤 About Me
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer,Passion+for+Innovation;Coding+Enthusiast,Anime+Lover,Traveler,Math+Fanatic,Social+Explorer)
 
-🔭 Currently working at Airchains, focusing on advanced cryptography and decentralized technologies, including Fully Homomorphic Encryption (FHE), Zero-Knowledge Proofs (ZK), and Cosmos, primarily using Go.<br>🌱 As a Developer, I’m passionate about turning imagination into groundbreaking products that are secure, scalable, and user-friendly.
+👨‍💻 Currently working at Airchains, focusing on advanced cryptography and decentralized technologies, including Fully Homomorphic Encryption (FHE), Zero-Knowledge Proofs (ZK), and Cosmos, primarily using Go.<br>🔍 As a Developer, I’m passionate about turning imagination into groundbreaking products that are secure, scalable, and user-friendly.
 
 # 📊 Git Stats
 
