@@ -1,47 +1,18 @@
-### Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Blockchain+Developer;I+like+coding,+anime,+travel,;math,+shoes,+party,+dance)
-<img alt="snake ka photu hain" src="https://github.com/aakash4dev/aakash4dev/blob/output/github-contribution-grid-snake.svg"/>
-![](https://komarev.com/ghpvc/?username=aakash4dev)
-<!-- <div align="center" > -->
- <div w-100>
- <img 
-    src="https://camo.githubusercontent.com/0a0e2604bc5eb1fb69fa663fdb9b9e0fd3a3c6cc74ff038e5574eecbc4134c6c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d436f6d70757465724b65656461266c61796f75743d636f6d7061637426626f726465725f7261646975733d3230267468656d653d616c676f6c6961"
-    alt="Aakash4dev profile status"
-  />
- </div><br>
- <div w-100>
- <img 
-    src="https://github-readme-stats.vercel.app/api?username=aakash4dev&show_icons=true&hide=issues,prs&theme=algolia&border_radius=20"
-    alt="|Aakash4dev profile status"
-  />
-</div><br>
+# 💫 About
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer+with+a+Passion+for+Innovation;Coding+Enthusiast,+Anime+Lover,+and+Traveler;Math+Fanatic,+Shoe+Collector,+and+Social+Explorer)
 
+🔭 Currently working at Airchains, focusing on advanced cryptography and decentralized technologies, including Fully Homomorphic Encryption (FHE), Zero-Knowledge Proofs (ZK), and Cosmos, primarily using Go.<br>🌱 As a Developer, I’m passionate about turning imagination into groundbreaking products that are secure, scalable, and user-friendly.
 
-#### **Programming Languages:**
+# 📊 Git Stats
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![solidity](https://img.shields.io/badge/solidity-%234ea94b.svg?style=for-the-badge&logo=solidity&logoColor=%23F7DF1E)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash4dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
-#### **Libraries & Frameworks:**
+![](https://github-readme-stats.vercel.app/api?username=aakash4dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aakash4dev&theme=dark&hide_border=false)<br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+## 🌐 Social Med
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aakash4dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aakash4dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash4dev/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aakash4dev) 
 
-#### **Hosting and Server:**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-<!-- </div> -->
-<!-- </div> -->
-
-
-Linkedin: https://www.linkedin.com/in/aakash4dev/
-
-Twitter: https://www.twitter.com/aakash4dev
-
-Instagram: https://instagram.com/aakash4dev
+# 💻 Tech Stacks
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
