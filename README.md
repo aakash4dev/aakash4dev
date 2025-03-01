@@ -7,6 +7,8 @@
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
+🌍 **Portfolio Website:** [**aakash4dev.me**](https://aakash4dev.me)
+
 👨‍💻 **Senior Blockchain Developer at Airchains** – Passionate about pushing the boundaries of **cryptography and decentralized technologies**. My work revolves around **Fully Homomorphic Encryption (FHE), Zero-Knowledge Proofs (ZK), and Cosmos**, with a strong focus on **scalability, security, and real-world blockchain applications** using **Go and Rust**.
 
 🔍 I thrive on transforming **complex ideas into powerful, user-friendly, and secure blockchain solutions**. Whether it's designing cutting-edge protocols, optimizing cryptographic computations, or diving deep into Web3, I love building at the intersection of **technology, security, and innovation**.
@@ -43,4 +45,3 @@
 **🚀 Let’s Connect & Collaborate!**
 
 🔥 Always excited to work on cutting-edge blockchain projects and explore new innovations in FHE, ZK, and Cosmos. Feel free to reach out—let's build the future of Web3 together!
-
