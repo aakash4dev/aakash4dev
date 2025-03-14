@@ -7,7 +7,7 @@
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
-🌍 **Portfolio Website:** [**aakash4dev.me**](https://aakash4dev.me)
+🌍 **Portfolio Website:** [**aakash4dev.me**](https://aakash4dev.com)
 
 👨‍💻 **Senior Blockchain Developer at Airchains** – Passionate about pushing the boundaries of **cryptography and decentralized technologies**. My work revolves around **Fully Homomorphic Encryption (FHE), Zero-Knowledge Proofs (ZK), and Cosmos**, with a strong focus on **scalability, security, and real-world blockchain applications** using **Go and Rust**.
 
